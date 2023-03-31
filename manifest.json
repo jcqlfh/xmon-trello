@@ -1,0 +1,11 @@
+{
+  "name": "3c-xmon-trello",
+  "description": "Xmon to Trello",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["storage", "activeTab", "scripting", "tabs", "downloads"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "logo.png"
+  }
+}
